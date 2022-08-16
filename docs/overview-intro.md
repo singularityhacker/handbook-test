@@ -3,7 +3,7 @@ id: overview
 title: Intro
 sidebar_label: Intro
 ---
-Greetings Guilder!
+Greetings Guilder!!! Lets gooooo!
 
 We see you’ve stumbled across the Handbook. Well done! This guide will serve as your go-to resource for any and all things Raid Guild.
 
